@@ -1,0 +1,10 @@
+public class rectangle {
+
+int Width;
+int Height;
+class Rectangle(int theWidth, int theHeight)
+{
+	width = theWidth;
+	height = theHeight;
+
+}
